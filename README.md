@@ -29,12 +29,12 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 <!-- Social badges section -->
 
 <p align="center">
->
+
   <a href="https://www.youtube.com/@thakur2337?sub_confirmation=1">
     <img 
       alt="youtube subscribers" 
       title="Subscribe to my YouTube channel" 
-      src="https://img.shields.io/youtube/channel/subscribers/UCyc4JNEutYQBoDfdtnJ6vUCayQk2S7R7gO3DRGL-xgnLAag?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
+      src="https://img.shields.io/youtube/channel/subscribers/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a>
   <a href="https://www.youtube.com/@thakur2337">
