@@ -15,7 +15,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 - I'm currently learning about html,Css,Javascript And Python
 - Ask me about anything and everything
 - Contact me:
-  - Discord ID: [ॐᴿ| PUПI3ΉΣR འ࿐#2123][discord-user-id]
+  - Discord ID: [login.rana][discord-user-id]
   - Discord Server: [Rust Kingdom][discord-server-invite-link]
 
 
