@@ -15,11 +15,11 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 - I'm currently learning about html,Css,Javascript And Python
 - Ask me about anything and everything
 - Contact me:
-  - Discord ID: [ D E V </> ][discord-user-id]
-  - Discord Server: [DISCORD][discord-server-invite-link]
+  - Discord ID: [DEV</>][discord-user-id]
+  - Discord Server: [Chacha Bhatija][discord-server-invite-link]
 
 
-## 🥅 2023 Goals:
+## 🥅 2025 Goals:
 
 - Learn more about web3
 - Learn Html,Css, Python And JS
