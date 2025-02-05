@@ -1,6 +1,6 @@
 <!-- Main Heading  -->
 
-# ॐ Arpit Thakur
+# ॐ DEVRATA
 
 <!-- Intro -->
 
@@ -111,6 +111,6 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 <!-- DEFINATIONS -->
 
-[youtube]: https://youtube.com/@thakur2337
-[discord-user-id]: https://discordapp.com/users/1032261556702035979
-[discord-server-invite-link]: https://discord.gg/KUFkGDthQH
+[youtube]: https://youtube.com/@Why_thakur
+[discord-user-id]: https://discordapp.com/users/1087346593235210311
+[discord-server-invite-link]: https://discord.gg/CmQAqbJqsJ
