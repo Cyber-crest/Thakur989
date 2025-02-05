@@ -30,28 +30,28 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
 
 <p align="center">
 
-  <a href="https://www.youtube.com/@thakur2337?sub_confirmation=1">
+  <a href="https://www.youtube.com/@Why_thakur?sub_confirmation=1">
     <img 
       alt="youtube subscribers" 
       title="Subscribe to my YouTube channel" 
       src="https://img.shields.io/youtube/channel/subscribers/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=SUBSCRIBERS&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a>
-  <a href="https://www.youtube.com/@thakur2337">
+  <a href="https://www.youtube.com/@Why_thakur">
     <img 
       alt="youtube views" 
       title="YouTube views" 
       src="https://img.shields.io/youtube/channel/views/UCayQk2S7R7gO3DRGL-xgnLA?color=red&label=YOUTUBE&logo=youtube&logoColor=red&style=for-the-badge"
     />
   </a> 
-  <a href="https://github.com/thakur989?tab=repositories&sort=stargazers">
+  <a href="https://github.com/whyonlythakur?tab=repositories&sort=stargazers">
     <img 
     alt="total stars" 
     title="Total stars on GitHub" 
     src="https://custom-icon-badges.demolab.com/github/stars/thakur989?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
     />
   </a>
-  <a href="https://github.com/thakur989?tab=followers">
+  <a href="https://github.com/whyonlythakur?tab=followers">
     <img 
     alt="followers" 
     title="Follow me on Github" 
@@ -68,7 +68,7 @@ Hey there, I'm an indie backend developer (wanna be full-stack developer soon to
   </a> -->
 </p>
 <p align="center">
-  <a href="https://discord.gg/KUFkGDthQH">
+  <a href="https://discord.gg/CmQAqbJqsJ">
   <img 
     alt="discord invite banner"
     title="Discord Invite Banner"
